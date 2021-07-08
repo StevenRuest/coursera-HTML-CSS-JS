@@ -58,7 +58,6 @@ body {
     #boxChicken, #boxBeef, #boxSushi {
         width: 31.33%;
 	    margin: 0% 1% 0% 1%;
-        
     }
 }
 
@@ -74,7 +73,6 @@ body {
 }
 
 @media screen and (max-width: 767px) {
-
     #boxChicken, #boxBeef, #boxSushi {
         width: 92%;
         margin: 0% 4% 4% 4%;
